@@ -1,12 +1,16 @@
-#APNs
+# All unpinned blobs are from RMX2193_11_C.11
+
+# APNs
 etc/apns-conf.xml:product/etc/apns-conf.xml
 
 # Bluetooth (AptX)
 lib64/libaptX_encoder.so
 lib64/libaptXHD_encoder.so
 
-# HotwordEnrollment
--product/priv-app/HotwordEnrollmentOKGoogleCORTEXM4/HotwordEnrollmentOKGoogleCORTEXM4.apk
+# EngineerMode
+-priv-app/EngineerMode/EngineerMode.apk
+-lib/libem_support_jni.so
+-lib64/libem_support_jni.so
 
 # Kernel Power Off Charging (KPOC)
 bin/kpoc_charger
