@@ -1,11 +1,11 @@
-Realme C3/Realme Narzo 10A Device Tree - RMX2020/RMX2027
+Realme 7I(EU)/Realme Narzo 20 Device Tree - RMX2193/RMX2191
 ================================================================
 
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)
-Chipset | MediaTek Helio G70 (12 nm)
+CPU     | Octa-core (2x2.2 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)
+Chipset | MediaTek Helio G85 (12 nm)
 GPU     | Mali-G52 2EEMC2
 Memory  | 3/4 GB
 Shipped Android Version | Android 10, realme UI 1.0 
